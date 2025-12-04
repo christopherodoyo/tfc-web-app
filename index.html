@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="description" content="Teens For Compassion — A web app helping youth find Bible stories, TFC songs, and guidance.">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Teens For Compassion</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app-container">
+
+    <header>
+        <h1>Teens For Compassion</h1>
+        <p>Christ Lwanda CDC • KE0258</p>
+    </header>
+
+    <!-- SEARCH -->
+    <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Search anything...">
+        <button id="searchButton">Search</button>
+    </div>
+
+    <!-- CATEGORIES -->
+    <div class="categories">
+        <div class="card" data-category="stories">📖 Bible Stories</div>
+        <div class="card" data-category="songs">🎵 TFC Songs</div>
+        <div class="card" data-category="learning">📘 Learning</div>
+        <div class="card" data-category="helpful">✨ Helpful Tools</div>
+        <div class="card" data-category="impact">💛 How TFC Helps</div>
+        <div class="card" data-category="problems">⚠️ Problems TFC Solves</div>
+        <div class="search-container">
+    <input type="text" id="searchInput" placeholder="Search anything...">
+    <button id="searchButton">Search</button>
+</div>
+
+    </div>
+
+    <!-- RESULTS -->
+    <div id="results"></div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

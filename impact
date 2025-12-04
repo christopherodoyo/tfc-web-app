@@ -1,0 +1,27 @@
+impact:[
+    {
+        title:"COMMUNITY SURPORT",
+        description:"TFC organizes programs to help orphans, street kids, and families in need. Solves: Poverty, lack of resources.",
+        image:"impact1.jpg"
+    },
+    {
+        title:"Youth Empowerment",
+        description:"Provides mentorship and training for teens to become responsible leaders. Solves: Unemployment, lack of guidance.",
+        image:"impact2.jpg"
+    },
+    {
+        title:"Spreading Compassion",
+        description:"Encourages acts of kindness and charity across schools and neighborhoods. Solves: Bullying, selfishness, social apathy.",
+        image:"impact3.jpg"
+    },
+    {
+        title:"Problem Solving",
+        description:"Addresses issues like bullying, substance abuse, and lack of guidance among teens. Solves: Peer pressure, substance abuse.",
+        image:"impact4.jpg"
+    },
+    {
+        title:"Faith Building",
+        description:"Teaches Bible stories and Christian values to strengthen spiritual growth. Solves: Lack of moral guidance, low self-esteem.",
+        image:"impact5.jpg"
+    }
+]

@@ -1,0 +1,7 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Teens For Compassion",
+  "url": "https://yourwebsite.com",
+  "logo": "https://yourwebsite.com/tfc_icon.png"
+}
